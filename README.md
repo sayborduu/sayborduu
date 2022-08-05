@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate on nothing lmfao
 - 📫 How to reach me text me on idk!
-- 🔗 My website [click here](http://rbxchat.ml)
+- 🔗 My website [click here](http://bypasschat.ml)
 
 Better open-source? I think so!
 
