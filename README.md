@@ -12,3 +12,5 @@ Some of my projects will be obfuscated, but most ones will be open-source!
 BoredStuff2/BoredStuff2 is a ✨ special ✨ repository. 
 lol
 --->
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=BoredStuff2" alt="Profile Views" /> </p>  
