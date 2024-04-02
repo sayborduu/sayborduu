@@ -1,5 +1,6 @@
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E3UQYO7)
 
-<p align="center"> <img src = "https://discord.c99.nl/widget/theme-4/978750269481418792.png" /> </p>
+## hey, I'm Alex Badi. Make sure to check out [my website](https://alexbadi.es)
 <p align="center"> <img src="https://gpvc.arturio.dev/sayborduu" alt="Profile Views" /> </p>
 
 <p align="center"> <img src = "https://raw.githubusercontent.com/sayborduu/github-stats/master/generated/overview.svg" /> </p>
