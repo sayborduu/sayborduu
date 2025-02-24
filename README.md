@@ -25,7 +25,7 @@ I am an introvert, self-taught 17y/o developer interested in various programming
 </p>
 
 ### Contact Me
-- **Email**: [youremail@example.com](mailto:alex@alexbadi.es)
+- **Email**: [alex@alexbadi.es](mailto:alex@alexbadi.es)
 - **Web**: [website](https://alexbadi.es)
 
 ![GitHub followers](https://img.shields.io/github/followers/sayborduu?style=social)
