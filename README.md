@@ -17,12 +17,9 @@ I am an introvert, self-taught 17y/o developer interested in various programming
 - **metroapp**: A WIP Valencia's province public transport app. [web preview (broken as of Feb 23](https://metroapp.alexbadi.es/)
 
 ### GitHub Stats
-<p> 
-  <img src="https://raw.githubusercontent.com/sayborduu/github-stats/master/generated/overview.svg" /> 
-</p>
-<p> 
-  [![Top Langs](https://ghstatsnew.vercel.app/api/top-langs/?username=sayborduu&layout=donut)](https://github.com/sayborduu)
-</p>
+![sayborduu's GitHub stats](https://ghstatsnew.vercel.app/api?username=sayborduu&show=prs_merged_percentage)
+
+[![Top Langs](https://ghstatsnew.vercel.app/api/top-langs/?username=sayborduu&layout=donut)](https://github.com/sayborduu)
 
 ### Contact Me
 - **Email**: [alex@alexbadi.es](mailto:alex@alexbadi.es)
