@@ -21,7 +21,7 @@ I am an introvert, self-taught 17y/o developer interested in various programming
   <img src="https://raw.githubusercontent.com/sayborduu/github-stats/master/generated/overview.svg" /> 
 </p>
 <p> 
-  <img src="https://raw.githubusercontent.com/sayborduu/github-stats/master/generated/languages.svg" /> 
+  [![Top Langs](https://ghstatsnew.vercel.app/api/top-langs/?username=sayborduu&layout=donut)](https://github.com/sayborduu)
 </p>
 
 ### Contact Me
