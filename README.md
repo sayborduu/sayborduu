@@ -13,8 +13,8 @@ I am an introvert, self-taught 17y/o developer interested in various programming
 - **Other**: Learning Expo React Native!
 
 ### Projects
-- **metroapi**: An unofficial metrovalencia API. [link](https://docs.metroapi.alexbadi.es)
-- **metroapp**: A WIP metrovalencia app. [web preview (broken as of Feb 23](https://metroapp.alexbadi.es/)
+- **metroapi**: An unofficial Valencia's metro API. [link](https://docs.metroapi.alexbadi.es)
+- **metroapp**: A WIP Valencia's province public transport app. [web preview (broken as of Feb 23](https://metroapp.alexbadi.es/)
 
 ### GitHub Stats
 <p> 
