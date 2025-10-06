@@ -5,7 +5,7 @@
 Make sure to check out [my website](https://alexbadi.es) :)
 
 ### About Me
-I am an introvert, self-taught 17y/o developer interested in various programming languages and technologies. I enjoy creating backends and I'm continuously learning new skills.
+I am an otrovert, self-taught 17y/o developer interested in various programming languages and technologies. I enjoy creating backends and I'm continuously learning new skills.
 
 ### Skills
 - **Python**: python is the main language I use. (backends)
