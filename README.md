@@ -1,6 +1,3 @@
-> [!WARNING]  
-> Based on Google searches about me, Alex Badi, I do not have any relation to any TikTok profile, Facebook profile, or others. I also don't speak Sinhala.
-
 ## Hey, I'm Alex Badi! 
 Make sure to check out [my website](https://alexbadi.es) :)
 
@@ -27,5 +24,7 @@ I am an otrovert, self-taught 17y/o developer interested in various programming 
 
 ![GitHub followers](https://img.shields.io/github/followers/sayborduu?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/sayborduu?style=social)
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S017Q38Y)
 
 considering dropping a follow? ;)
