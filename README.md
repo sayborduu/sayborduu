@@ -4,7 +4,11 @@
 
 Student & passionate developer. I like building useful stuff, learning by doing, photography and snowboarding.
 
-<img src="/photos/thumb.jpeg" alt="Alex Badi banner" style="width: 640px; height: 360px; object-fit: cover; border-radius: 40px;" />
+<img
+  src="/photos/thumb.jpeg"
+  alt="Alex Badi banner"
+  style="width: 100%; height: auto; border-radius: 40px;"
+/>
 
 [website](https://alexbadi.es) • [travel map (future redesign to nextjs)](https://travel.alexbadi.es)
 
