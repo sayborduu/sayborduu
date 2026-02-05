@@ -96,7 +96,7 @@ exploring full-stack, apis and products.
 
 **Opposify** (deprecated)
 - Lets AI explore opposing viewpoints on the same topic  
-- Example: \"Use of phones in class\"
+- Example: "Use of phones in class"
 
 **Website redesign** (wip)
 - Reworking [alexbadi.es](https://alexbadi.es)
