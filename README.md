@@ -4,9 +4,9 @@
 
 Student & passionate developer. I like building useful stuff, learning by doing, photography and snowboarding.
 
-<img src="https://travel.alexbadi.es/images/AUTO/DA6EB66B-417E-4CC2-864B-93650724D7E7_1_102_a.jpeg" alt="Alex Badi banner" style="width: 600px; height: 180px; object-fit: cover; border-radius: 40px;" />
+<img src="/photos/thumb.jpeg" alt="Alex Badi banner" style="width: 600px; height: 180px; object-fit: cover; border-radius: 40px;" />
 
-[website](https://alexbadi.es) • [travel map](https://travel.alexbadi.es) • [wip website](https://alexbadidev-redesign.framer.website/)
+[website](https://alexbadi.es) • [travel map (future redesign to nextjs)](https://travel.alexbadi.es)
 
 </div>
 
