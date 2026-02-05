@@ -14,7 +14,7 @@ Student & passionate developer. I like building useful stuff, learning by doing,
 
 ### About me
 
-* 17 y/o student/passionate developer (born March 12, 2008)
+* 17 y/o student/passionate developer (born 2008)
 * Otrovert leaning introvert (but progress is real, slowly becoming less intro)
 * I build pretty much anything that sounds interesting
 
