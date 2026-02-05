@@ -5,7 +5,7 @@
 Student & passionate developer. I like building useful stuff, learning by doing, photography and snowboarding.
 
 <img
-  src="/photos/thumb.jpeg"
+  src="/photos/rounded.png"
   alt="Alex Badi banner"
   style="width: 100%; height: auto; border-radius: 40px;"
 />
