@@ -1,18 +1,28 @@
 <div align="center">
 
-## Hey, I'm Alex Badi!
+<h2>Hey, I'm Alex Badi!</h2>
 
-Student & passionate developer. I like building useful stuff, learning by doing, photography and snowboarding.
+<p>
+Student & passionate developer. I like building useful stuff, learning by doing,
+photography and snowboarding.
+</p>
 
 <img
   src="/photos/rounded.png"
-  alt="Alex Badi banner"
+  alt="Picture"
   style="width: 100%; height: auto; border-radius: 40px;"
 />
 
-[website](https://alexbadi.es) • [travel map (future redesign to nextjs)](https://travel.alexbadi.es)
+<br>
+<sub>Picture taken by me. Vittoriano, Rome, Italy.</sub>
+
+<br><br>
+
+<a href="https://alexbadi.es">website</a> •
+<a href="https://travel.alexbadi.es">travel map (future redesign to nextjs)</a>
 
 </div>
+
 
 ---
 
