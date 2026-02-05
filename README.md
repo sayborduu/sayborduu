@@ -40,7 +40,7 @@ exploring full-stack, apis and products.
 **languages**
 - spanish · native  
 - english · b2 (cambridge, 179)  
-  - 180 for c1, redoing it in march  
+  - 180 for c1 (working towards c1)  
 - valencian · a bit messy
 
 
