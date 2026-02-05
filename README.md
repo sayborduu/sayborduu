@@ -14,7 +14,7 @@ photography and snowboarding.
 />
 <sub>Picture taken by me. Vittoriano, Rome, Italy.</sub>
 
-<br><br>
+<br>
 
 <a href="https://alexbadi.es">website</a> •
 <a href="https://travel.alexbadi.es">travel map (future redesign to nextjs)</a>
