@@ -12,8 +12,6 @@ photography and snowboarding.
   alt="Picture"
   style="width: 100%; height: auto; border-radius: 40px;"
 />
-
-<br>
 <sub>Picture taken by me. Vittoriano, Rome, Italy.</sub>
 
 <br><br>
