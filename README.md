@@ -3,7 +3,7 @@
 <h2>Hey, I'm Alex Badi!</h2>
 
 <p>
-Student & passionate developer. I like building useful stuff, learning by doing,
+Student & passionate developer. I like building useful stuff, learning by doing, 
 photography and snowboarding.
 </p>
 
@@ -24,71 +24,83 @@ photography and snowboarding.
 
 ---
 
-### About me
+### about me
 
-* 17 y/o student/passionate developer (born 2008)
-* Otrovert leaning introvert (but progress is real, slowly becoming less intro)
-* I build pretty much anything that sounds interesting
+student and self-taught developer, building almost everything  
+i can think about. useful things too.
 
-#### Languages
-* Spanish (native)
-* English (B2, 179 points), C1 in March
-* Valencian (a bit messy)
+currently learning by shipping and programming,  
+exploring full-stack, apis and products.
 
----
+> 📍 valencia / spain  
+> 🎓 bachiller student  
+> 🧠 self-taught, programming since 9 years old  
+> 📸 also into photography & snowboarding  
 
-### Tech & skills
+**languages**
+- spanish · native  
+- english · b2 (cambridge, 179)  
+  - 180 for c1, redoing it in march  
+- valencian · a bit messy
 
-**Main**
-
-* **Python (Flask)**: APIs, backends, real-world projects
-* **Databases**: MongoDB, Supabase (Postgres), Redis
-
-**Comfortable**
-
-* **Next.js** (App Router)
-* **Auth**: Supabase Auth, Auth0
-* **Infra**: Vercel, Cloudflare, Cloudflare Workers, GitHub
-
-**Learning / Exploring**
-
-* **Swift & SwiftUI** (native iOS, actually enjoying it)
-* **C++**
-* Node.js (I know it, just not using it much lately)
 
 ---
 
-### Projects
+### tech & skills
 
-* **metroapi** (prod)
+**backend & data**
+- python · flask powering apis and real products  
+- databases i use: 
+  - mongodb
+  - postgres (supabase)
+  - redis
 
-  * The unofficial Metrovalencia API, built to be simple and dev-friendly
-  * Dashboard + docs
-  * [API](https://metroapi.alexbadi.es) • [Dash (WIP)](https://dash.metroapi.alexbadi.es) • [Docs](https://docs.metroapi.alexbadi.es)
+**frontend & product**
+- next.js (app router) 
+- auth setups with
+  - supabase auth
+  - auth0
 
-* **metroapp** (WIP)
+**infra & shipping**
+- vercel
+- cloudflare
+- cloudflare workers
+- github  
 
-  * Native public transport app for Valencia
-  * SwiftUI first, Android later
+**learning / exploring**
+- swift & swiftui
+- c++  
+- node.js (i know it, not using it much)
 
-* **pauvalencia.lol**
 
-  * Browse PAU exams from the Valencian Community by subject and year
-  * [website](https://pauvalencia.lol)
+---
 
-* **BoredUI**
+### projects
 
-  * Roblox UI library for executors
-  * Lots of components, very opinionated
+**metroapi** (prod)  
+- The unofficial Metrovalencia API, built to be simple and dev-friendly  
+- Dashboard + docs  
+- [API](https://metroapi.alexbadi.es) • [Dash (WIP)](https://dash.metroapi.alexbadi.es) • [Docs](https://docs.metroapi.alexbadi.es)
 
-* **Opposify**
+**metroapp** (wip)  
+- Native public transport app for Valencia  
+- SwiftUI for iOS and Android
 
-  * Lets AI explore opposing viewpoints on the same topic
-  * Example: "Use of phones in class"
+**pauvalencia.lol** (prod/public beta)
+- Browse PAU exams from the Valencian Community by subject and year  
+- [website](https://pauvalencia.lol)
 
-* **Website redesign**
+**BoredUI** (prod)
+- Roblox UI library for executors  
+- Lots of components, very opinionated
 
-  * Reworking alexbadi.es
+**Opposify** (deprecated)
+- Lets AI explore opposing viewpoints on the same topic  
+- Example: \"Use of phones in class\"
+
+**Website redesign** (wip)
+- Reworking [alexbadi.es](https://alexbadi.es)
+
 
 ---
 
@@ -107,5 +119,4 @@ photography and snowboarding.
 
 ---
 
-If you like what I build, consider following or starring a repo ⭐
-I would fw people who care about clean, useful software. (jk but i like clean and useful code :3)
+consider following or starring a repo! :3
