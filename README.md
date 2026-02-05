@@ -106,9 +106,9 @@ exploring full-stack, apis and products.
 
 ### GitHub stats
 
-![sayborduu's GitHub stats](https://ghstatsnew.vercel.app/api?username=sayborduu\&show=prs_merged_percentage)
+![sayborduu's GitHub stats](https://ghstatsnew.vercel.app/api?username=sayborduu&show=prs_merged_percentage)
 
-[![Top Langs](https://ghstatsnew.vercel.app/api/top-langs/?username=sayborduu\&layout=donut)](https://github.com/sayborduu)
+[![Top Langs](https://ghstatsnew.vercel.app/api/top-langs/?username=sayborduu&layout=donut)](https://github.com/sayborduu)
 
 ---
 
