@@ -17,7 +17,7 @@ photography and snowboarding.
 <br>
 
 <a href="https://alexbadi.es">website</a> •
-<a href="https://travel.alexbadi.es">travel map (future redesign to nextjs)</a>
+<a href="https://alex.badi.cam">photography</a>
 
 </div>
 
@@ -33,7 +33,7 @@ currently learning by shipping and programming,
 exploring full-stack, apis and products.
 
 > 📍 valencia / spain  
-> 🎓 bachiller student  
+> 🎓 hs student / studying computer science @ UPV
 > 🧠 self-taught, programming since 9 years old  
 > 📸 also into photography & snowboarding  
 
@@ -98,9 +98,11 @@ exploring full-stack, apis and products.
 - Lets AI explore opposing viewpoints on the same topic  
 - Example: "Use of phones in class"
 
-**Website redesign** (wip)
-- Reworking [alexbadi.es](https://alexbadi.es)
+**Website redesign** (finished october ‘26)
+- Redesign [alexbadi.es](https://alexbadi.es)
 
+**Private projects**
+- Other private projects not listed here
 
 ---
 
